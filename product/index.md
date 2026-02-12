@@ -1,8 +1,8 @@
-# Proventus Product Page
+# OverLog Product Page
 
-## What Proventus Does
+## What OverLog Does
 
-Proventus helps you:
+OverLog helps you:
 
 - Log workouts with structured exercise data
 - Track progress over time

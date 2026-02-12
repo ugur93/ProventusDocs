@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This repository hosts the public marketing and legal pages for Proventus on GitHub Pages.
+This repository hosts the public marketing and legal pages for OverLog on GitHub Pages.
 
 ## Current Structure
 

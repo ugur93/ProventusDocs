@@ -1,6 +1,6 @@
-# Proventus
+# OverLog
 
-Welcome to the official Proventus pages.
+Welcome to the official OverLog pages.
 
 ## Pages
 
@@ -10,4 +10,4 @@ Welcome to the official Proventus pages.
 
 ## About
 
-Proventus is a fitness tracking app focused on workout logging, progress tracking, and long-term training consistency.
+OverLog is a fitness tracking app focused on workout logging, progress tracking, and long-term training consistency.

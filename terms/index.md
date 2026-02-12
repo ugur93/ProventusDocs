@@ -1,14 +1,14 @@
-# Terms of Service for Proventus
+# Terms of Service for OverLog
 
 **Last Updated: February 7, 2026**
 
 ## Agreement to Terms
 
-By downloading, installing, or using Proventus ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the App.
+By downloading, installing, or using OverLog ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the App.
 
 ## Description of Service
 
-Proventus is a fitness tracking application that provides:
+OverLog is a fitness tracking application that provides:
 
 - Workout logging and tracking
 - Progress monitoring and analytics
@@ -20,7 +20,7 @@ Proventus is a fitness tracking application that provides:
 
 ### No Account Required for Core Use
 
-- Proventus can be used without creating an account
+- OverLog can be used without creating an account
 - Core workout logging, progress tracking, and program creation are available without sign-up
 
 ### Optional/Restricted Account Access
@@ -33,7 +33,7 @@ Proventus is a fitness tracking application that provides:
 
 ### Premium Features
 
-- Proventus offers premium features through subscription
+- OverLog offers premium features through subscription
 - Subscription prices are clearly displayed before purchase
 - Subscriptions auto-renew unless cancelled at least 24 hours before the end of the current period
 - Premium eligibility is determined by your App Store purchase status (via Apple/RevenueCat)
@@ -53,7 +53,7 @@ Proventus is a fitness tracking application that provides:
 
 ## Acceptable Use
 
-You agree to use Proventus only for lawful purposes and in accordance with these Terms. You may not:
+You agree to use OverLog only for lawful purposes and in accordance with these Terms. You may not:
 
 - Use the App for any illegal or unauthorized purpose
 - Reverse engineer, decompile, or attempt to extract source code
@@ -67,7 +67,7 @@ You agree to use Proventus only for lawful purposes and in accordance with these
 
 ### Medical Disclaimer
 
-- Proventus is not a medical device and should not be used for medical diagnosis or treatment
+- OverLog is not a medical device and should not be used for medical diagnosis or treatment
 - Always consult with qualified healthcare professionals before starting any new fitness program
 - The App is not intended to replace professional medical advice
 
@@ -81,7 +81,7 @@ You agree to use Proventus only for lawful purposes and in accordance with these
 
 ### Our Rights
 
-- Proventus and all related content, features, and functionality are owned by us
+- OverLog and all related content, features, and functionality are owned by us
 - The App is protected by copyright, trademark, and other intellectual property laws
 - You may not use our trademarks, logos, or proprietary content without permission
 
@@ -93,7 +93,7 @@ You agree to use Proventus only for lawful purposes and in accordance with these
 
 ## Privacy and Data Protection
 
-Your privacy is important to us. Our collection and use of data is governed by our Privacy Policy, which is incorporated into these Terms by reference. By using Proventus, you consent to the collection and use of information as described in our Privacy Policy.
+Your privacy is important to us. Our collection and use of data is governed by our Privacy Policy, which is incorporated into these Terms by reference. By using OverLog, you consent to the collection and use of information as described in our Privacy Policy.
 
 ### Data Storage and Sync
 
@@ -152,8 +152,8 @@ These Terms are governed by the laws of [Your Jurisdiction] without regard to co
 
 If you have questions about these Terms, please contact us:
 
-- **Email**: legal@proventus.app
-- **Website**: https://proventus.app/terms
+- **Email**: legal@overlog.app
+- **Website**: https://overlog.app/terms
 
 ## Severability
 
@@ -161,10 +161,10 @@ If any provision of these Terms is found to be unenforceable, the remaining prov
 
 ## Entire Agreement
 
-These Terms constitute the entire agreement between you and Proventus regarding your use of the App.
+These Terms constitute the entire agreement between you and OverLog regarding your use of the App.
 
 ---
 
 **Effective Date**: February 7, 2026
 
-*By using Proventus, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.*
+*By using OverLog, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.*
