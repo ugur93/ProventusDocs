@@ -1,52 +1,73 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Product | OverLog</title>
-    <link rel="stylesheet" href="../assets/styles.css" />
-  </head>
-  <body>
-    <header class="site-header">
-      <div class="container header-inner">
-        <a class="brand" href="../">OverLog</a>
-        <nav class="nav">
-          <a href="../">Home</a>
-          <a class="active" href="./">Product</a>
-          <a href="../privacy/">Privacy</a>
-          <a href="../terms/">Terms</a>
-        </nav>
-      </div>
-    </header>
 
-    <main class="container">
-      <section class="hero">
-        <h1>OverLog Product</h1>
-        <p>
-          A focused workout tracker designed for consistency, progression visibility, and optional ecosystem integrations.
-        </p>
-      </section>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Product | OverLog</title>
+  <link rel="stylesheet" href="../assets/styles.css" />
+</head>
 
-      <section class="grid">
-        <article class="card">
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="../">OverLog</a>
+      <nav class="nav">
+        <a href="../">Home</a>
+        <a class="active" href="./">Product</a>
+        <a href="../privacy/">Privacy</a>
+        <a href="../terms/">Terms</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="container hero">
+      <p class="eyebrow">Product Overview</p>
+      <h1>Built for Consistency</h1>
+      <p>
+        A focused workout tracker designed for consistency, progression visibility, and optional ecosystem integrations.
+      </p>
+    </section>
+
+    <section class="container">
+      <div class="feature-highlights">
+        <article class="highlight-card">
+          <div class="icon-box">🏋️</div>
           <h3>Workout Tracking</h3>
           <p>Log exercises, sets, reps, loads, rest periods, and notes with a flow optimized for active sessions.</p>
         </article>
-        <article class="card">
+        <article class="highlight-card">
+          <div class="icon-box">📊</div>
           <h3>Progress Insights</h3>
           <p>Review history, monitor volume trends, and identify PR opportunities over time.</p>
         </article>
-        <article class="card">
+        <article class="highlight-card">
+          <div class="icon-box">📝</div>
           <h3>Program Flexibility</h3>
           <p>Create and adapt custom programs and exercise libraries based on your training style.</p>
         </article>
-        <article class="card">
+        <article class="highlight-card">
+          <div class="icon-box">🍎</div>
           <h3>Apple Integrations</h3>
           <p>Optionally sync with HealthKit and iCloud depending on your permissions and device setup.</p>
         </article>
-      </section>
-    </main>
+      </div>
+    </section>
+  </main>
 
-    <footer class="container">© 2026 OverLog</footer>
-  </body>
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div style="display: flex; align-items: center; gap: 12px;">
+        <span class="brand" style="font-size: 1rem;">OverLog</span>
+        <span style="color: var(--muted); font-size: 0.9rem;">© 2026</span>
+      </div>
+      <nav class="footer-links" aria-label="Legal">
+        <a href="../privacy/">Privacy</a>
+        <a href="../terms/">Terms</a>
+      </nav>
+    </div>
+  </footer>
+</body>
+
 </html>
